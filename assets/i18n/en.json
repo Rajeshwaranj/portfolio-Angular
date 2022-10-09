@@ -1,0 +1,60 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "CV.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>1 year of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and sometimes in <span class='underline'>React</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>6 months as a developer trainee</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Spring and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Project",
+            "Title": "Fullstack developer",
+            "Date": "December 2019 - Present",
+            "Description": [
+                "Creation and maintenance of a monitoring platform with graphics in WordPress.",
+                "Functional programming in templates and plugins to add the necessary monitoring features.",
+                "Implementation of continuous integration and daily backups.",
+                "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
+                "Planning meetings in reports."
+            ]
+        },
+        {
+            "Tab": "Freelancer",
+            "Title": "Independent",
+            "Date": "May 2016 - Present",
+            "Description": [
+                "Implementing continuous improvements, working on frontend and backend.",
+                "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+                "Automation of processes with data structures.",
+                "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+            ]
+        }
+    ],
+    "OtherProjects.Projects": [
+        {
+            "Title": "Pokemon",
+            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+            "ghLink": "https://github.com/Rajeshwaranj/-pokemon-angular/tree/main/pokemon-angular-master/pokemon-angular-master",
+            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+            "Technologies": [
+                "Angular",
+                "API",
+                "Bootstrap"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
